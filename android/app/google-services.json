@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "325132814063",
+    "project_id": "worldwide-restaurant-app-2f490",
+    "storage_bucket": "worldwide-restaurant-app-2f490.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325132814063:android:c74d0d668f10b5df8cfd1a",
+        "android_client_info": {
+          "package_name": "com.worldwiderestaurantsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325132814063-vf5m3q9lvs5d08dqm24llrfdubti3csn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdDuvaWTCOgsrxt7G3uSAGkO4n6iyYb0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325132814063-vf5m3q9lvs5d08dqm24llrfdubti3csn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
