@@ -19,3 +19,19 @@ Kullanılan Yapılar;<br>
 ~ Hooks<br>
 ~ Redux<br>
 ~ Cloud Firestore (Firebase)<br><br>
+<p><p>
+
+<img src="https://user-images.githubusercontent.com/77547205/190917206-78ca8293-ae6e-49f1-8554-c24a9fc44085.png" height="550" width="250">
+<img src="https://user-images.githubusercontent.com/77547205/190917227-4721388a-448d-4063-95ad-d4ca18363110.png" height="550" width="250">
+<img src="https://user-images.githubusercontent.com/77547205/190917209-bd6ab37e-c94a-400b-9ac0-eee883d1df3d.png" height="550" width="250">
+<img src="https://user-images.githubusercontent.com/77547205/190917210-592d9bc0-653e-418d-83dc-4f57913a0afb.png" height="550" width="250">
+<img src="https://user-images.githubusercontent.com/77547205/190917213-844a7ad9-23de-4b6b-8d69-935a692c8fdc.png" height="550" width="250">
+<img src="https://user-images.githubusercontent.com/77547205/190917214-2078ab6d-d7d9-4980-9acc-7b541c9b3a0a.png" height="550" width="250">
+<img src="https://user-images.githubusercontent.com/77547205/190917217-67ca9555-3c52-48af-9499-adef9a2f6d37.png" height="550" width="250">
+<img src="https://user-images.githubusercontent.com/77547205/190917219-1f1f7172-40fa-4e04-82f4-bb97cc6382b7.png" height="550" width="250">
+<img src="https://user-images.githubusercontent.com/77547205/190917220-f22acba3-7f52-4502-9150-d115f5408526.png" height="550" width="250">
+<img src="https://user-images.githubusercontent.com/77547205/190917224-f5b25e8c-69d6-4e74-8c02-1df1b0bfc187.png" height="550" width="250">
+
+
+
+
